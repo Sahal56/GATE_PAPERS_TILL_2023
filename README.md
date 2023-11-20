@@ -27,6 +27,5 @@ ALL THE BEST TO ALL ASPIRANTS
  - [geeksforgeeks](https://www.geeksforgeeks.org/original-gate-previous-year-question-papers-cse-and-it-gq/)
  - [GATE FORUM](https://gateforum.com)
 
-
-![GATE](https://github.com/Sahal56/GATE_PAPERS_TILL_2023/gateExamLogo.png)
+![GATE](https://github.com/Sahal56/GATE_PAPERS_TILL_2023/assets/63746256/faed40d7-7f96-4033-9174-0b55634f3a3b)
 
